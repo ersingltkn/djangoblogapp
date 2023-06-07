@@ -1,0 +1,5 @@
+Django
+django-ckeditor
+django-cleanup
+django-crispy-form
+django-js-asset
